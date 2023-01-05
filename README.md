@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Asad Tariq</h1>
 <h3 align="center">A passionate Computer Scientist from Pakistan</h3>
 
