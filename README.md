@@ -3,6 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asssadtariq&label=Profile%20views&color=0e75b6&style=flat" alt="asssadtariq" /> </p>
 
+- 🌱 I’m currently learning **MEAN Stack**
+
+- 💬 Ask me about **Programming, Web development, Computer Vision, Machine Learning, App Development, Blockchain Development, Python etc**
+
+- 📫 How to reach me **asadtariq.at66@gmail.com**
+
+- ⚡ Fun fact **I think I am Funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/asadtariqabbsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asadtariqabbsi" height="30" width="40" /></a>
