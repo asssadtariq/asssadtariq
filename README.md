@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asssadtariq&label=Profile%20views&color=0e75b6&style=flat" alt="asssadtariq" /> </p>
 
-- 🌱 I’m currently learning **MEAN Stack**
+- 🌱 I’m currently working as **Data Engineer**
 
-- 💬 Ask me about **Programming, Web development, Computer Vision, Machine Learning, App Development, Blockchain Development, Python etc**
+- 💬 Ask me about **Programming, Web Development, Data, Python, Machine Learning & Computer Vision etc**
 
 - 📫 How to reach me **asadtariq.at66@gmail.com**
 
