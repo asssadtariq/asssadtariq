@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asssadtariq&label=Profile%20views&color=0e75b6&style=flat" alt="asssadtariq" /> </p>
 
-- 🌱 I’m currently working as **Data Engineer**
+- 🌱 I’m currently working as **Full Stack Developer and Data Engineer**
 
 - 💬 Ask me about **Programming, Web Development, Data, Python, Machine Learning & Computer Vision etc**
 
