@@ -26,7 +26,7 @@ python, problem-solving**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <!-- Programming Languages -->
+    
 
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img
@@ -41,7 +41,7 @@ python, problem-solving**
             alt="javascript" width="40" height="40" />
     </a>
 
-    <!-- FE -->
+    
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -65,7 +65,7 @@ python, problem-solving**
             alt="react" width="40" height="40" />
     </a>
 
-    <!-- BE -->
+    
     
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40"
@@ -87,7 +87,7 @@ python, problem-solving**
             width="40" height="40" />
     </a>
 
-    <!-- DBs -->
+    
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -104,7 +104,7 @@ python, problem-solving**
             alt="postgresql" width="40" height="40" />
     </a>
 
-    <!-- DevOps -->
+    
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -120,20 +120,20 @@ python, problem-solving**
             alt="docker" width="40" height="40" />
     </a>
 
-    <!-- AI -->
+    
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"
             width="40" height="40" />
     </a>
 
-    <!-- Cloud -->
+    
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
             alt="aws" width="40" height="40" />
     </a>
 
-    <!-- Python Libraries / Frameworks -->
+    
     <a href="https://opencv.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40"
             height="40" />
