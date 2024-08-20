@@ -114,7 +114,7 @@ python, problem-solving**
 <a href="https://scrapy.org/" target="_black" rel="noreferrer">
     <img
         src="https://scrapy.org/img/scrapylogo.png"
-        alt="Scrapy" width="40" height="40" />
+        alt="Scrapy" width="120" height="40" />
 </a>
 <h6>Other Technologies and Tools</h6>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
