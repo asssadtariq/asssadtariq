@@ -113,7 +113,7 @@ python, problem-solving**
 </a>
 <a href="https://scrapy.org/" target="_black" rel="noreferrer">
     <img
-        src="https://scrapy.org/img/scrapy-smalllogo.png"
+        src="https://scrapy.org/img/scrapylogo.png"
         alt="Scrapy" width="40" height="40" />
 </a>
 <h6>Other Technologies and Tools</h6>
