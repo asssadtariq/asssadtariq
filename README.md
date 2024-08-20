@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as **Full Stack Data Engineer**
 
-- 🌱 I’m currently learning **Data Engineering, and Full Stack Development**
+- 🌱 I’m currently learning **Data Engineering, and Full Stack Engineering**
 
 - 💬 Ask me about **programming, web development, data, databases, automations, image processing,
 python, problem-solving**
