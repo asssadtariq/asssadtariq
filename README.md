@@ -64,7 +64,7 @@ python, problem-solving**
         height="40" />
 </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="FastAPI" width="40"
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40"
         height="40" />
 </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
