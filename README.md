@@ -6,12 +6,12 @@
         alt="asssadtariq" />
 </p>
 
-- 🔭 I’m currently working as **Full Stack Data Engineer**
+- 🔭 I’m currently working as **Software Engineer**
 
-- 🌱 I’m currently learning **Data Engineering, and Full Stack Engineering**
+- 🌱 I’m currently learning **Software Engineering, Data & AI Engineering, and Python**
 
-- 💬 Ask me about **programming, web development, data, databases, automations, image processing,
-python, problem-solving**
+- 💬 Ask me about **programming, web development, data, databases, automations, web scraping, image processing,
+python, cloud, deployments and problem-solving**
 
 - 📫 How to reach me **asadtariq.at66@gmail.com**
 
