@@ -68,7 +68,7 @@ python, problem-solving**
         height="40" />
 </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask"
+    <img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="flask"
         width="40" height="40" />
 </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer">
