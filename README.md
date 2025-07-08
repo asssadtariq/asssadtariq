@@ -6,9 +6,9 @@
         alt="asssadtariq" />
 </p>
 
-- 🔭 I’m currently working as **Software Engineer**
+- 🔭 **Software Engineer** | **Full Stack Engineer** | **Backend Engineer** | **Python Engineer** | **Data Engineer** 
 
-- 🌱 I’m currently learning **Software Engineering, Data Engineering, and Python**
+- 🌱 I’m currently learning **Software Engineering, Full Stack Engineering, Python, and Data Engineering**
 
 - 💬 Ask me about **programming, web development, data, databases, automations, web scraping, image processing,
 python, cloud, deployments and problem-solving**
@@ -121,7 +121,7 @@ python, cloud, deployments and problem-solving**
 </a>
 <a href="https://scrapy.org/" target="_black" rel="noreferrer">
     <img
-        src="https://scrapy.org/img/scrapylogo.png"
+        src="https://repository-images.githubusercontent.com/529502/dab2bd00-0ed2-11eb-8588-5e10679ace4d"
         alt="Scrapy" width="120" height="40" />
 </a>
 <h6>Other Technologies and Tools</h6>
