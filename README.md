@@ -68,7 +68,15 @@ python, cloud, deployments and problem-solving**
         height="40" />
 </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="flask"
+    <img src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" alt="flask"
+        width="80" height="40" />
+</a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="nodejs"
+        width="80" height="40" />
+</a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://seekvectors.com/files/download/express.js-logo.png" alt="ExpressJs"
         width="80" height="40" />
 </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer">
